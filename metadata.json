@@ -1,0 +1,6 @@
+{
+  "name": "AlSultan AutoSave CRM",
+  "description": "Premium CRM background monitoring application custom tailored for Al-Sultan Smart Phones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
